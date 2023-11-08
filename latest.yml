@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: DSMC-launcher-win-x64.exe
+    sha512: XIOlKOxzJDkxtzMjFoS3ZN0ySsIMcFr6aqheqA4CC848X/ehoxlkzGx7cB1N07BVNikJlekAiR/3C11PkqFy0Q==
+    size: 78905263
+path: DSMC-launcher-win-x64.exe
+sha512: XIOlKOxzJDkxtzMjFoS3ZN0ySsIMcFr6aqheqA4CC848X/ehoxlkzGx7cB1N07BVNikJlekAiR/3C11PkqFy0Q==
+releaseDate: '2023-10-27T21:02:39.932Z'
