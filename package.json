@@ -2,7 +2,7 @@
     "name": "nion-launcher",
     "preductname": "Nion-Launcher",
     "version": "1.0.2",
-    "description": "Launcher By gotans2354",
+    "description": "Launcher-By-gotans2354",
     "main": "src/app.js",
     "author": "gotans2354",
     "url": "https://dualityserversmc.000webhostapp.com/datos/",
@@ -35,6 +35,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DualityServersMC/Nion-Launcher.git"
+        "url": "git+https://github.com/DualityServersMC/DSMC-Launcher-1.git"
     }
 }
