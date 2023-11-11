@@ -174,7 +174,7 @@ class Home {
             });
 
             launch.on('data', (e) => {
-                new logger('Minecraft', '#36b030');
+                new logger('Minecraft', '#8300ee');
                 if (launcherSettings.launcher.close === 'close-launcher') ipcRenderer.send("main-window-hide");
                 ipcRenderer.send('main-window-progress-reset')
                 progressBar.style.display = "none"
@@ -188,7 +188,7 @@ class Home {
                 info.style.display = "none"
                 playBtn.style.display = "block"
                 info.innerHTML = `Vérificacion`
-                new logger('Launcher', '#8809d0');
+                new logger('Launcher', '#8300ee');
                 console.log('Close');
             });
 

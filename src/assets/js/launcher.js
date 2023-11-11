@@ -33,7 +33,7 @@ class Launcher {
                 ipcRenderer.send("main-window-dev-tools");
             }
         })
-        new logger('Launcher', '#7289da')
+        new logger('Launcher', '#6a01e7')
     }
 
     initFrame() {

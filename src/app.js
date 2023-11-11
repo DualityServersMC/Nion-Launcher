@@ -31,7 +31,7 @@ async function setActivity(){
     RPC.setActivity({
         details: "Jugando HardGore",
         startTimestamp: Date.now(),
-        largeImageKey: 'nion',
+        largeImageKey: 'icon',
         instance: false,
         buttons: [
             {

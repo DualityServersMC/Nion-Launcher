@@ -11,7 +11,7 @@ body {
     margin: 0;  
     padding: 0;
     user-select: none;
-    background: linear-gradient(#00000066, #00000066), url("../images/background/light.png") black no-repeat center center scroll;
+    background: linear-gradient(#0000009d, #0000009d), url("../images/background/light.png") black no-repeat center center scroll;
 }
 
 img {
@@ -21,7 +21,7 @@ img {
 
 .dragbar {
     position: fixed;
-    background: #00000080;
+    background: #9d64e0;
     top: 0px;
     left: 0px;
     width: 100%;
@@ -52,12 +52,12 @@ img {
     width: 30px;
     height: 26px;
     transition: color .2s, background-color .2s;
-    color: black;
+    color: #6a01e7;
     cursor: pointer;
 }
 
 .icon-close:hover {
-    background: #e21212;
+    background: #6a01e7;
 }
 
 .icon-minimize:hover,
@@ -76,7 +76,7 @@ img {
     width: 14px;
     height: 14px;
     font-size: 14px;
-    color: #f8f9f9;
+    color: #6a01e7;
 }
 
 .preload-content {
@@ -99,7 +99,7 @@ img {
     height: 16px;
     margin-left: 14px;
     margin-top: 12px;
-    background: #ffffff;
+    background: #6a01e7;
     border-radius: 50%;
     transform: translateX(0);
     animation: dot 2.8s infinite;
@@ -118,7 +118,7 @@ img {
     width: 16px;
     height: 16px;
     margin-left: 16px;
-    background: #ffffff;
+    background: #6a01e7;
     border-radius: 50%;
 }
 
